@@ -1,16 +1,18 @@
-# localizacao_com_flutter
+# Localizacao com Flutter
 
-A new Flutter project.
+Teste usando o GeoLocator para Localizar a localização baseada no GPS.
 
-## Getting Started
+- [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
-This project is a starting point for a Flutter application.
+<h2>🛠️ Funcionalidades e Componentes usados</h2>
 
-A few resources to get you started if this is your first Flutter project:
+- flutter e flutter_localizations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- geocoding - 2.0.5
+- geolocator - 9.0.2
+- get - 4.6.5
+- i18n_extension - 6.0.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<b>Desenvolvido apenas para Android.</b> - Testado exclusivamente em Android (Emulador). 
